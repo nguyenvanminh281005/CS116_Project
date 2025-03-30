@@ -1,0 +1,24 @@
+bài 2: dùng 2 hướng tiếp cận, cận trên và cận dưới 
+- mô hình cấp dưới sử dụng xác suất hàng được mua 
+link code tham khảo: https://github.com/matthiasanderer/m5-accuracy-competition
+
+bài 63: 
+- source code :https://www.kaggle.com/code/suuuuuu/m5-ca1-model-final
+
+
+bài 123 
+source code: https://www.kaggle.com/code/xxbxyae/123rd-place-solution
+
+
+tại stuck nhiều layers hơn thì nó giải pháp được mô hình phi tuyến , tăng khả năng học hỏi từ dữ liệu
+
+tại sao những cuộc thi của kaggle thì không giải pháp top nào sử dụng neural network
+
+tại sao decisiondecision tree giải đáp được mô hình phi tuyếntuyến
+
+tại sao những model top của kaggle 
+
+tại sao deeplearning lại dùng neural network 
+
+vấn đề lớn nhất là overfitting 
+
