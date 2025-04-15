@@ -10,6 +10,6 @@ $commitMessage = "update files - $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
 git commit -m $commitMessage
 
 # Push lên remote repository
-git push -u origin master  # Hoặc thay bằng nhánh bạn đang sử dụng
+git push -u origin binbon  # Hoặc thay bằng nhánh bạn đang sử dụng
 
 # lệnh commit nhanh nè : ./backend/git-auto-push.ps1
